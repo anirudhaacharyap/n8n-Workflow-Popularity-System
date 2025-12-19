@@ -35,12 +35,17 @@ async def get_workflows(
     if country:
         query = query.where(Workflow.country == country)
     if search:
-        query = query.where(Workflow.workflow_name.ilike(f"%{search}%"))
+        # SECURITY: Sanitize search input - escape special LIKE characters
+        safe_search = search.replace("%", r"\%").replace("_", r"\_")
+        query = query.where(Workflow.workflow_name.ilike(f"%{safe_search}%"))
 
-    # Sorting
+    # Sorting - SECURITY: Validate sort_by against whitelist
+    ALLOWED_SORT_FIELDS = {"created_at", "updated_at", "workflow_name", "platform", "country"}
+    if sort_by not in ALLOWED_SORT_FIELDS:
+        sort_by = "created_at"  # Default to safe value
+    
     if sort_by == "engagement_score":
         # This is complex because engagement_score is in the related metrics table.
-        # For MVP/Task, let's keep it simple or join. 
         # Joining for sort:
         query = query.join(Workflow.metrics).order_by(
             desc(PopularityMetric.engagement_score) if order == "desc" else PopularityMetric.engagement_score
