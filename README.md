@@ -72,7 +72,7 @@ python verify_api.py
 *   Test the Novelty Analytics endpoint.
 
 ### 2. API Documentation (Swagger UI)
-Visit reasonable interactions in your browser:
+Visit the interactive API documentation:
 👉 **[http://localhost:8000/docs](http://localhost:8000/docs)**
 
 ### 3. Key Endpoints
