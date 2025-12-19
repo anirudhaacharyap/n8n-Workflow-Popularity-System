@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "n8n-workflow-popularity-tracker"
+version = "0.1.0"
+description = "Automated system to track n8n workflow popularity"
+authors = ["AI Agent <agent@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.109.0"
+uvicorn = "^0.27.0"
+sqlalchemy = "^2.0.25"
+alembic = "^1.13.1"
+asyncpg = "^0.29.0"
+aiohttp = "^3.9.3"
+apscheduler = "^3.10.4"
+pytrends = "^4.9.2"
+pandas = "^2.2.0"
+google-api-python-client = "^2.116.0"
+pydantic-settings = "^2.1.0"
+python-multipart = "^0.0.9"
+psycopg2-binary = "^2.9.9"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0.0"
+pytest-asyncio = "^0.23.5"
+black = "^24.1.1"
+isort = "^5.13.2"
+mypy = "^1.8.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

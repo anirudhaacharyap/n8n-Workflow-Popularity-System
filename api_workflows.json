@@ -1,0 +1,907 @@
+{
+  "total": 50,
+  "items": [
+    {
+      "workflow": "Stripe Invoice Generator Forum Tutorial #7355",
+      "description": "Automated workflow for Stripe Invoice Generator Forum Tutorial #7355",
+      "platform": "forum",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 37,
+      "created_at": "2025-12-19T15:39:17.191987",
+      "updated_at": "2025-12-19T15:39:17.192008",
+      "popularity_metrics": {
+        "views": 27247,
+        "likes": 1684,
+        "comments": 152,
+        "like_to_view_ratio": 0.0618,
+        "comment_to_view_ratio": 0.0056,
+        "metric_date": "2025-12-19T15:39:17.199688"
+      }
+    },
+    {
+      "workflow": "Jira Ticket Creator Forum Tutorial #6678",
+      "description": "Automated workflow for Jira Ticket Creator Forum Tutorial #6678",
+      "platform": "forum",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 18,
+      "created_at": "2025-11-26T15:39:17.077873",
+      "updated_at": "2025-12-19T15:39:17.077893",
+      "popularity_metrics": {
+        "views": 37833,
+        "likes": 484,
+        "comments": 422,
+        "like_to_view_ratio": 0.0128,
+        "comment_to_view_ratio": 0.0112,
+        "metric_date": "2025-12-19T15:39:17.084070"
+      }
+    },
+    {
+      "workflow": "Shopify Order Sync Forum Tutorial #5422",
+      "description": "Automated workflow for Shopify Order Sync Forum Tutorial #5422",
+      "platform": "forum",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 40,
+      "created_at": "2025-11-23T15:39:17.211003",
+      "updated_at": "2025-12-19T15:39:17.211027",
+      "popularity_metrics": {
+        "views": 41624,
+        "likes": 1517,
+        "comments": 435,
+        "like_to_view_ratio": 0.0364,
+        "comment_to_view_ratio": 0.0105,
+        "metric_date": "2025-12-19T15:39:17.217498"
+      }
+    },
+    {
+      "workflow": "n8n notion automation workflow 4578",
+      "description": "Automated workflow for n8n notion automation workflow 4578",
+      "platform": "google",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 19,
+      "created_at": "2025-11-13T15:39:17.084444",
+      "updated_at": "2025-12-19T15:39:17.084470",
+      "popularity_metrics": {
+        "views": 13477,
+        "likes": 1049,
+        "comments": 343,
+        "like_to_view_ratio": 0.0778,
+        "comment_to_view_ratio": 0.0255,
+        "metric_date": "2025-12-19T15:39:17.090306"
+      }
+    },
+    {
+      "workflow": "n8n asana task manager workflow 2327",
+      "description": "Automated workflow for n8n asana task manager workflow 2327",
+      "platform": "google",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 6,
+      "created_at": "2025-11-05T15:39:17.000395",
+      "updated_at": "2025-12-19T15:39:17.000419",
+      "popularity_metrics": {
+        "views": 15316,
+        "likes": 1046,
+        "comments": 212,
+        "like_to_view_ratio": 0.0683,
+        "comment_to_view_ratio": 0.0138,
+        "metric_date": "2025-12-19T15:39:17.014031"
+      }
+    },
+    {
+      "workflow": "OpenAI GPT-4 Integration Youtube Tutorial #3770",
+      "description": "Automated workflow for OpenAI GPT-4 Integration Youtube Tutorial #3770",
+      "platform": "youtube",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 10,
+      "created_at": "2025-10-30T15:39:17.033345",
+      "updated_at": "2025-12-19T15:39:17.033484",
+      "popularity_metrics": {
+        "views": 17304,
+        "likes": 1609,
+        "comments": 101,
+        "like_to_view_ratio": 0.093,
+        "comment_to_view_ratio": 0.0058,
+        "metric_date": "2025-12-19T15:39:17.039499"
+      }
+    },
+    {
+      "workflow": "OpenAI GPT-4 Integration Youtube Tutorial #4202",
+      "description": "Automated workflow for OpenAI GPT-4 Integration Youtube Tutorial #4202",
+      "platform": "youtube",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 47,
+      "created_at": "2025-10-27T15:39:17.254112",
+      "updated_at": "2025-12-19T15:39:17.254135",
+      "popularity_metrics": {
+        "views": 5345,
+        "likes": 71,
+        "comments": 64,
+        "like_to_view_ratio": 0.0133,
+        "comment_to_view_ratio": 0.012,
+        "metric_date": "2025-12-19T15:39:17.261566"
+      }
+    },
+    {
+      "workflow": "n8n monday.com update workflow 5182",
+      "description": "Automated workflow for n8n monday.com update workflow 5182",
+      "platform": "google",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 51,
+      "created_at": "2025-10-26T15:39:17.280750",
+      "updated_at": "2025-12-19T15:39:17.280766",
+      "popularity_metrics": {
+        "views": 744,
+        "likes": 299,
+        "comments": 43,
+        "like_to_view_ratio": 0.4019,
+        "comment_to_view_ratio": 0.0578,
+        "metric_date": "2025-12-19T15:39:17.285757"
+      }
+    },
+    {
+      "workflow": "Monday.com Update Youtube Tutorial #8970",
+      "description": "Automated workflow for Monday.com Update Youtube Tutorial #8970",
+      "platform": "youtube",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 38,
+      "created_at": "2025-10-23T15:39:17.199909",
+      "updated_at": "2025-12-19T15:39:17.199931",
+      "popularity_metrics": {
+        "views": 16357,
+        "likes": 355,
+        "comments": 467,
+        "like_to_view_ratio": 0.0217,
+        "comment_to_view_ratio": 0.0286,
+        "metric_date": "2025-12-19T15:39:17.205498"
+      }
+    },
+    {
+      "workflow": "n8n trello card creator workflow 5181",
+      "description": "Automated workflow for n8n trello card creator workflow 5181",
+      "platform": "google",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 55,
+      "created_at": "2025-10-22T15:39:17.304399",
+      "updated_at": "2025-12-19T15:39:17.304417",
+      "popularity_metrics": {
+        "views": 11589,
+        "likes": 1439,
+        "comments": 251,
+        "like_to_view_ratio": 0.1242,
+        "comment_to_view_ratio": 0.0217,
+        "metric_date": "2025-12-19T15:39:17.310009"
+      }
+    },
+    {
+      "workflow": "Gmail Parser Forum Tutorial #7343",
+      "description": "Automated workflow for Gmail Parser Forum Tutorial #7343",
+      "platform": "forum",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 52,
+      "created_at": "2025-10-18T15:39:17.285967",
+      "updated_at": "2025-12-19T15:39:17.285994",
+      "popularity_metrics": {
+        "views": 14031,
+        "likes": 1214,
+        "comments": 94,
+        "like_to_view_ratio": 0.0865,
+        "comment_to_view_ratio": 0.0067,
+        "metric_date": "2025-12-19T15:39:17.291834"
+      }
+    },
+    {
+      "workflow": "Monday.com Update Forum Tutorial #5296",
+      "description": "Automated workflow for Monday.com Update Forum Tutorial #5296",
+      "platform": "forum",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 31,
+      "created_at": "2025-10-17T15:39:17.154491",
+      "updated_at": "2025-12-19T15:39:17.154516",
+      "popularity_metrics": {
+        "views": 38175,
+        "likes": 465,
+        "comments": 160,
+        "like_to_view_ratio": 0.0122,
+        "comment_to_view_ratio": 0.0042,
+        "metric_date": "2025-12-19T15:39:17.161837"
+      }
+    },
+    {
+      "workflow": "n8n stripe invoice generator workflow 3857",
+      "description": "Automated workflow for n8n stripe invoice generator workflow 3857",
+      "platform": "google",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 20,
+      "created_at": "2025-10-16T15:39:17.090495",
+      "updated_at": "2025-12-19T15:39:17.090512",
+      "popularity_metrics": {
+        "views": 45933,
+        "likes": 917,
+        "comments": 207,
+        "like_to_view_ratio": 0.02,
+        "comment_to_view_ratio": 0.0045,
+        "metric_date": "2025-12-19T15:39:17.095483"
+      }
+    },
+    {
+      "workflow": "n8n discord webhook workflow 2471",
+      "description": "Automated workflow for n8n discord webhook workflow 2471",
+      "platform": "google",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 36,
+      "created_at": "2025-10-15T15:39:17.186197",
+      "updated_at": "2025-12-19T15:39:17.186214",
+      "popularity_metrics": {
+        "views": 37806,
+        "likes": 98,
+        "comments": 476,
+        "like_to_view_ratio": 0.0026,
+        "comment_to_view_ratio": 0.0126,
+        "metric_date": "2025-12-19T15:39:17.191836"
+      }
+    },
+    {
+      "workflow": "n8n asana task manager workflow 2376",
+      "description": "Automated workflow for n8n asana task manager workflow 2376",
+      "platform": "google",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 53,
+      "created_at": "2025-10-03T15:39:17.291995",
+      "updated_at": "2025-12-19T15:39:17.292014",
+      "popularity_metrics": {
+        "views": 3148,
+        "likes": 759,
+        "comments": 285,
+        "like_to_view_ratio": 0.2411,
+        "comment_to_view_ratio": 0.0905,
+        "metric_date": "2025-12-19T15:39:17.298317"
+      }
+    },
+    {
+      "workflow": "n8n jira ticket creator workflow 9657",
+      "description": "Automated workflow for n8n jira ticket creator workflow 9657",
+      "platform": "google",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 34,
+      "created_at": "2025-09-25T15:39:17.173044",
+      "updated_at": "2025-12-19T15:39:17.173072",
+      "popularity_metrics": {
+        "views": 7881,
+        "likes": 354,
+        "comments": 225,
+        "like_to_view_ratio": 0.0449,
+        "comment_to_view_ratio": 0.0285,
+        "metric_date": "2025-12-19T15:39:17.180308"
+      }
+    },
+    {
+      "workflow": "Discord Webhook Youtube Tutorial #3242",
+      "description": "Automated workflow for Discord Webhook Youtube Tutorial #3242",
+      "platform": "youtube",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 27,
+      "created_at": "2025-09-22T15:39:17.132396",
+      "updated_at": "2025-12-19T15:39:17.132417",
+      "popularity_metrics": {
+        "views": 9026,
+        "likes": 575,
+        "comments": 340,
+        "like_to_view_ratio": 0.0637,
+        "comment_to_view_ratio": 0.0377,
+        "metric_date": "2025-12-19T15:39:17.137790"
+      }
+    },
+    {
+      "workflow": "Salesforce Lead Capture Youtube Tutorial #3111",
+      "description": "Automated workflow for Salesforce Lead Capture Youtube Tutorial #3111",
+      "platform": "youtube",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 46,
+      "created_at": "2025-09-20T15:39:17.249178",
+      "updated_at": "2025-12-19T15:39:17.249202",
+      "popularity_metrics": {
+        "views": 7937,
+        "likes": 661,
+        "comments": 232,
+        "like_to_view_ratio": 0.0833,
+        "comment_to_view_ratio": 0.0292,
+        "metric_date": "2025-12-19T15:39:17.253871"
+      }
+    },
+    {
+      "workflow": "Trello Card Creator Forum Tutorial #5398",
+      "description": "Automated workflow for Trello Card Creator Forum Tutorial #5398",
+      "platform": "forum",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 16,
+      "created_at": "2025-09-13T15:39:17.069311",
+      "updated_at": "2025-12-19T15:39:17.069327",
+      "popularity_metrics": {
+        "views": 17671,
+        "likes": 1453,
+        "comments": 84,
+        "like_to_view_ratio": 0.0822,
+        "comment_to_view_ratio": 0.0048,
+        "metric_date": "2025-12-19T15:39:17.073282"
+      }
+    },
+    {
+      "workflow": "Notion Automation Youtube Tutorial #9909",
+      "description": "Automated workflow for Notion Automation Youtube Tutorial #9909",
+      "platform": "youtube",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 57,
+      "created_at": "2025-09-11T15:39:17.316755",
+      "updated_at": "2025-12-19T15:39:17.316773",
+      "popularity_metrics": {
+        "views": 12297,
+        "likes": 675,
+        "comments": 395,
+        "like_to_view_ratio": 0.0549,
+        "comment_to_view_ratio": 0.0321,
+        "metric_date": "2025-12-19T15:39:17.322833"
+      }
+    },
+    {
+      "workflow": "Monday.com Update Forum Tutorial #2779",
+      "description": "Automated workflow for Monday.com Update Forum Tutorial #2779",
+      "platform": "forum",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 42,
+      "created_at": "2025-09-01T15:39:17.222990",
+      "updated_at": "2025-12-19T15:39:17.223015",
+      "popularity_metrics": {
+        "views": 23761,
+        "likes": 1722,
+        "comments": 277,
+        "like_to_view_ratio": 0.0725,
+        "comment_to_view_ratio": 0.0117,
+        "metric_date": "2025-12-19T15:39:17.229708"
+      }
+    },
+    {
+      "workflow": "Stripe Invoice Generator Youtube Tutorial #2954",
+      "description": "Automated workflow for Stripe Invoice Generator Youtube Tutorial #2954",
+      "platform": "youtube",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 11,
+      "created_at": "2025-08-29T15:39:17.039640",
+      "updated_at": "2025-12-19T15:39:17.039661",
+      "popularity_metrics": {
+        "views": 34581,
+        "likes": 1207,
+        "comments": 11,
+        "like_to_view_ratio": 0.0349,
+        "comment_to_view_ratio": 0.0003,
+        "metric_date": "2025-12-19T15:39:17.046034"
+      }
+    },
+    {
+      "workflow": "Salesforce Lead Capture Youtube Tutorial #2873",
+      "description": "Automated workflow for Salesforce Lead Capture Youtube Tutorial #2873",
+      "platform": "youtube",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 25,
+      "created_at": "2025-08-21T15:39:17.119886",
+      "updated_at": "2025-12-19T15:39:17.119902",
+      "popularity_metrics": {
+        "views": 28405,
+        "likes": 1971,
+        "comments": 438,
+        "like_to_view_ratio": 0.0694,
+        "comment_to_view_ratio": 0.0154,
+        "metric_date": "2025-12-19T15:39:17.125683"
+      }
+    },
+    {
+      "workflow": "Twitter Auto-Post Forum Tutorial #4056",
+      "description": "Automated workflow for Twitter Auto-Post Forum Tutorial #4056",
+      "platform": "forum",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 45,
+      "created_at": "2025-08-13T15:39:17.242233",
+      "updated_at": "2025-12-19T15:39:17.242252",
+      "popularity_metrics": {
+        "views": 5703,
+        "likes": 1546,
+        "comments": 430,
+        "like_to_view_ratio": 0.2711,
+        "comment_to_view_ratio": 0.0754,
+        "metric_date": "2025-12-19T15:39:17.248964"
+      }
+    },
+    {
+      "workflow": "Asana Task Manager Youtube Tutorial #5502",
+      "description": "Automated workflow for Asana Task Manager Youtube Tutorial #5502",
+      "platform": "youtube",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 56,
+      "created_at": "2025-08-10T15:39:17.310268",
+      "updated_at": "2025-12-19T15:39:17.310297",
+      "popularity_metrics": {
+        "views": 35883,
+        "likes": 917,
+        "comments": 166,
+        "like_to_view_ratio": 0.0256,
+        "comment_to_view_ratio": 0.0046,
+        "metric_date": "2025-12-19T15:39:17.316604"
+      }
+    },
+    {
+      "workflow": "HubSpot CRM Sync Forum Tutorial #3514",
+      "description": "Automated workflow for HubSpot CRM Sync Forum Tutorial #3514",
+      "platform": "forum",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 24,
+      "created_at": "2025-08-07T15:39:17.113317",
+      "updated_at": "2025-12-19T15:39:17.113346",
+      "popularity_metrics": {
+        "views": 21218,
+        "likes": 169,
+        "comments": 471,
+        "like_to_view_ratio": 0.008,
+        "comment_to_view_ratio": 0.0222,
+        "metric_date": "2025-12-19T15:39:17.119750"
+      }
+    },
+    {
+      "workflow": "n8n gmail parser workflow 3071",
+      "description": "Automated workflow for n8n gmail parser workflow 3071",
+      "platform": "google",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 9,
+      "created_at": "2025-08-03T15:39:17.026506",
+      "updated_at": "2025-12-19T15:39:17.026527",
+      "popularity_metrics": {
+        "views": 35731,
+        "likes": 559,
+        "comments": 110,
+        "like_to_view_ratio": 0.0156,
+        "comment_to_view_ratio": 0.0031,
+        "metric_date": "2025-12-19T15:39:17.033153"
+      }
+    },
+    {
+      "workflow": "Discord Webhook Youtube Tutorial #2792",
+      "description": "Automated workflow for Discord Webhook Youtube Tutorial #2792",
+      "platform": "youtube",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 15,
+      "created_at": "2025-07-25T15:39:17.062484",
+      "updated_at": "2025-12-19T15:39:17.062504",
+      "popularity_metrics": {
+        "views": 40237,
+        "likes": 478,
+        "comments": 445,
+        "like_to_view_ratio": 0.0119,
+        "comment_to_view_ratio": 0.0111,
+        "metric_date": "2025-12-19T15:39:17.069167"
+      }
+    },
+    {
+      "workflow": "Trello Card Creator Youtube Tutorial #9569",
+      "description": "Automated workflow for Trello Card Creator Youtube Tutorial #9569",
+      "platform": "youtube",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 54,
+      "created_at": "2025-07-15T15:39:17.298570",
+      "updated_at": "2025-12-19T15:39:17.298597",
+      "popularity_metrics": {
+        "views": 22571,
+        "likes": 1668,
+        "comments": 271,
+        "like_to_view_ratio": 0.0739,
+        "comment_to_view_ratio": 0.012,
+        "metric_date": "2025-12-19T15:39:17.304214"
+      }
+    },
+    {
+      "workflow": "Trello Card Creator Youtube Tutorial #4835",
+      "description": "Automated workflow for Trello Card Creator Youtube Tutorial #4835",
+      "platform": "youtube",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 14,
+      "created_at": "2025-07-07T15:39:17.057346",
+      "updated_at": "2025-12-19T15:39:17.057365",
+      "popularity_metrics": {
+        "views": 1289,
+        "likes": 742,
+        "comments": 177,
+        "like_to_view_ratio": 0.5756,
+        "comment_to_view_ratio": 0.1373,
+        "metric_date": "2025-12-19T15:39:17.062313"
+      }
+    },
+    {
+      "workflow": "Shopify Order Sync Forum Tutorial #9449",
+      "description": "Automated workflow for Shopify Order Sync Forum Tutorial #9449",
+      "platform": "forum",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 29,
+      "created_at": "2025-07-05T15:39:17.143563",
+      "updated_at": "2025-12-19T15:39:17.143584",
+      "popularity_metrics": {
+        "views": 49551,
+        "likes": 1821,
+        "comments": 2,
+        "like_to_view_ratio": 0.0368,
+        "comment_to_view_ratio": 0.0,
+        "metric_date": "2025-12-19T15:39:17.149326"
+      }
+    },
+    {
+      "workflow": "n8n openai gpt-4 integration workflow 9113",
+      "description": "Automated workflow for n8n openai gpt-4 integration workflow 9113",
+      "platform": "google",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 32,
+      "created_at": "2025-06-26T15:39:17.162028",
+      "updated_at": "2025-12-19T15:39:17.162050",
+      "popularity_metrics": {
+        "views": 43425,
+        "likes": 1746,
+        "comments": 100,
+        "like_to_view_ratio": 0.0402,
+        "comment_to_view_ratio": 0.0023,
+        "metric_date": "2025-12-19T15:39:17.167824"
+      }
+    },
+    {
+      "workflow": "Airtable Backup Forum Tutorial #2335",
+      "description": "Automated workflow for Airtable Backup Forum Tutorial #2335",
+      "platform": "forum",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 8,
+      "created_at": "2025-06-25T15:39:17.020658",
+      "updated_at": "2025-12-19T15:39:17.020676",
+      "popularity_metrics": {
+        "views": 48729,
+        "likes": 1406,
+        "comments": 258,
+        "like_to_view_ratio": 0.0289,
+        "comment_to_view_ratio": 0.0053,
+        "metric_date": "2025-12-19T15:39:17.026306"
+      }
+    },
+    {
+      "workflow": "n8n notion automation workflow 3617",
+      "description": "Automated workflow for n8n notion automation workflow 3617",
+      "platform": "google",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 58,
+      "created_at": "2025-06-12T15:39:17.323038",
+      "updated_at": "2025-12-19T15:39:17.323060",
+      "popularity_metrics": {
+        "views": 35445,
+        "likes": 1575,
+        "comments": 432,
+        "like_to_view_ratio": 0.0444,
+        "comment_to_view_ratio": 0.0122,
+        "metric_date": "2025-12-19T15:39:17.327918"
+      }
+    },
+    {
+      "workflow": "Zoom Meeting Summary Youtube Tutorial #6272",
+      "description": "Automated workflow for Zoom Meeting Summary Youtube Tutorial #6272",
+      "platform": "youtube",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 30,
+      "created_at": "2025-06-04T15:39:17.149471",
+      "updated_at": "2025-12-19T15:39:17.149489",
+      "popularity_metrics": {
+        "views": 38103,
+        "likes": 100,
+        "comments": 453,
+        "like_to_view_ratio": 0.0026,
+        "comment_to_view_ratio": 0.0119,
+        "metric_date": "2025-12-19T15:39:17.154286"
+      }
+    },
+    {
+      "workflow": "Salesforce Lead Capture Youtube Tutorial #1120",
+      "description": "Automated workflow for Salesforce Lead Capture Youtube Tutorial #1120",
+      "platform": "youtube",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 21,
+      "created_at": "2025-06-03T15:39:17.095699",
+      "updated_at": "2025-12-19T15:39:17.095720",
+      "popularity_metrics": {
+        "views": 48966,
+        "likes": 1545,
+        "comments": 4,
+        "like_to_view_ratio": 0.0316,
+        "comment_to_view_ratio": 0.0001,
+        "metric_date": "2025-12-19T15:39:17.101909"
+      }
+    },
+    {
+      "workflow": "n8n telegram bot workflow 2908",
+      "description": "Automated workflow for n8n telegram bot workflow 2908",
+      "platform": "google",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 59,
+      "created_at": "2025-05-20T15:39:17.328122",
+      "updated_at": "2025-12-19T15:39:17.328148",
+      "popularity_metrics": {
+        "views": 7783,
+        "likes": 1594,
+        "comments": 58,
+        "like_to_view_ratio": 0.2048,
+        "comment_to_view_ratio": 0.0075,
+        "metric_date": "2025-12-19T15:39:17.333261"
+      }
+    },
+    {
+      "workflow": "Gmail Parser Youtube Tutorial #2719",
+      "description": "Automated workflow for Gmail Parser Youtube Tutorial #2719",
+      "platform": "youtube",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 33,
+      "created_at": "2025-05-18T15:39:17.167983",
+      "updated_at": "2025-12-19T15:39:17.168003",
+      "popularity_metrics": {
+        "views": 14262,
+        "likes": 837,
+        "comments": 348,
+        "like_to_view_ratio": 0.0587,
+        "comment_to_view_ratio": 0.0244,
+        "metric_date": "2025-12-19T15:39:17.172721"
+      }
+    },
+    {
+      "workflow": "n8n asana task manager workflow 3759",
+      "description": "Automated workflow for n8n asana task manager workflow 3759",
+      "platform": "google",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 12,
+      "created_at": "2025-05-16T15:39:17.046216",
+      "updated_at": "2025-12-19T15:39:17.046241",
+      "popularity_metrics": {
+        "views": 29724,
+        "likes": 525,
+        "comments": 258,
+        "like_to_view_ratio": 0.0177,
+        "comment_to_view_ratio": 0.0087,
+        "metric_date": "2025-12-19T15:39:17.052091"
+      }
+    },
+    {
+      "workflow": "n8n telegram bot workflow 5143",
+      "description": "Automated workflow for n8n telegram bot workflow 5143",
+      "platform": "google",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 17,
+      "created_at": "2025-05-04T15:39:17.073399",
+      "updated_at": "2025-12-19T15:39:17.073414",
+      "popularity_metrics": {
+        "views": 14712,
+        "likes": 1207,
+        "comments": 62,
+        "like_to_view_ratio": 0.082,
+        "comment_to_view_ratio": 0.0042,
+        "metric_date": "2025-12-19T15:39:17.077679"
+      }
+    },
+    {
+      "workflow": "Monday.com Update Youtube Tutorial #7230",
+      "description": "Automated workflow for Monday.com Update Youtube Tutorial #7230",
+      "platform": "youtube",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 41,
+      "created_at": "2025-04-30T15:39:17.217647",
+      "updated_at": "2025-12-19T15:39:17.217666",
+      "popularity_metrics": {
+        "views": 5584,
+        "likes": 432,
+        "comments": 24,
+        "like_to_view_ratio": 0.0774,
+        "comment_to_view_ratio": 0.0043,
+        "metric_date": "2025-12-19T15:39:17.222777"
+      }
+    },
+    {
+      "workflow": "n8n jira ticket creator workflow 3461",
+      "description": "Automated workflow for n8n jira ticket creator workflow 3461",
+      "platform": "google",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 13,
+      "created_at": "2025-04-25T15:39:17.052222",
+      "updated_at": "2025-12-19T15:39:17.052239",
+      "popularity_metrics": {
+        "views": 34276,
+        "likes": 1567,
+        "comments": 411,
+        "like_to_view_ratio": 0.0457,
+        "comment_to_view_ratio": 0.012,
+        "metric_date": "2025-12-19T15:39:17.057115"
+      }
+    },
+    {
+      "workflow": "Airtable Backup Youtube Tutorial #5080",
+      "description": "Automated workflow for Airtable Backup Youtube Tutorial #5080",
+      "platform": "youtube",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 43,
+      "created_at": "2025-04-17T15:39:17.229913",
+      "updated_at": "2025-12-19T15:39:17.229937",
+      "popularity_metrics": {
+        "views": 41406,
+        "likes": 521,
+        "comments": 109,
+        "like_to_view_ratio": 0.0126,
+        "comment_to_view_ratio": 0.0026,
+        "metric_date": "2025-12-19T15:39:17.235229"
+      }
+    },
+    {
+      "workflow": "n8n clickup sync workflow 3646",
+      "description": "Automated workflow for n8n clickup sync workflow 3646",
+      "platform": "google",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 48,
+      "created_at": "2025-04-12T15:39:17.261839",
+      "updated_at": "2025-12-19T15:39:17.261867",
+      "popularity_metrics": {
+        "views": 38642,
+        "likes": 439,
+        "comments": 458,
+        "like_to_view_ratio": 0.0114,
+        "comment_to_view_ratio": 0.0119,
+        "metric_date": "2025-12-19T15:39:17.267373"
+      }
+    },
+    {
+      "workflow": "Jira Ticket Creator Youtube Tutorial #1634",
+      "description": "Automated workflow for Jira Ticket Creator Youtube Tutorial #1634",
+      "platform": "youtube",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 26,
+      "created_at": "2025-04-12T15:39:17.125940",
+      "updated_at": "2025-12-19T15:39:17.125969",
+      "popularity_metrics": {
+        "views": 1876,
+        "likes": 813,
+        "comments": 27,
+        "like_to_view_ratio": 0.4334,
+        "comment_to_view_ratio": 0.0144,
+        "metric_date": "2025-12-19T15:39:17.131999"
+      }
+    },
+    {
+      "workflow": "Salesforce Lead Capture Youtube Tutorial #6091",
+      "description": "Automated workflow for Salesforce Lead Capture Youtube Tutorial #6091",
+      "platform": "youtube",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 5,
+      "created_at": "2025-04-10T15:39:16.994268",
+      "updated_at": "2025-12-19T15:39:16.994321",
+      "popularity_metrics": {
+        "views": 20761,
+        "likes": 573,
+        "comments": 336,
+        "like_to_view_ratio": 0.0276,
+        "comment_to_view_ratio": 0.0162,
+        "metric_date": "2025-12-19T15:39:17.000188"
+      }
+    },
+    {
+      "workflow": "ClickUp Sync Forum Tutorial #6341",
+      "description": "Automated workflow for ClickUp Sync Forum Tutorial #6341",
+      "platform": "forum",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 22,
+      "created_at": "2025-03-29T15:39:17.102079",
+      "updated_at": "2025-12-19T15:39:17.102103",
+      "popularity_metrics": {
+        "views": 12158,
+        "likes": 1100,
+        "comments": 16,
+        "like_to_view_ratio": 0.0905,
+        "comment_to_view_ratio": 0.0013,
+        "metric_date": "2025-12-19T15:39:17.107243"
+      }
+    },
+    {
+      "workflow": "Monday.com Update Forum Tutorial #9383",
+      "description": "Automated workflow for Monday.com Update Forum Tutorial #9383",
+      "platform": "forum",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 49,
+      "created_at": "2025-03-20T15:39:17.267605",
+      "updated_at": "2025-12-19T15:39:17.267627",
+      "popularity_metrics": {
+        "views": 27534,
+        "likes": 559,
+        "comments": 176,
+        "like_to_view_ratio": 0.0203,
+        "comment_to_view_ratio": 0.0064,
+        "metric_date": "2025-12-19T15:39:17.272958"
+      }
+    },
+    {
+      "workflow": "n8n trello card creator workflow 1967",
+      "description": "Automated workflow for n8n trello card creator workflow 1967",
+      "platform": "google",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 35,
+      "created_at": "2025-03-18T15:39:17.180691",
+      "updated_at": "2025-12-19T15:39:17.180715",
+      "popularity_metrics": {
+        "views": 37531,
+        "likes": 281,
+        "comments": 42,
+        "like_to_view_ratio": 0.0075,
+        "comment_to_view_ratio": 0.0011,
+        "metric_date": "2025-12-19T15:39:17.186002"
+      }
+    },
+    {
+      "workflow": "Stripe Invoice Generator Youtube Tutorial #7729",
+      "description": "Automated workflow for Stripe Invoice Generator Youtube Tutorial #7729",
+      "platform": "youtube",
+      "country": "US",
+      "source_url": "https://example.com/demo",
+      "id": 39,
+      "created_at": "2025-03-17T15:39:17.205641",
+      "updated_at": "2025-12-19T15:39:17.205663",
+      "popularity_metrics": {
+        "views": 49628,
+        "likes": 1415,
+        "comments": 327,
+        "like_to_view_ratio": 0.0285,
+        "comment_to_view_ratio": 0.0066,
+        "metric_date": "2025-12-19T15:39:17.210803"
+      }
+    }
+  ],
+  "page": 1,
+  "size": 50
+}
